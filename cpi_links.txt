@@ -1,0 +1,12 @@
+XLSX	https://77.rosstat.gov.ru/storage/mediabank/Индексы цен производителей за 2025-2026 гг..xlsx
+XLSX	https://77.rosstat.gov.ru/storage/mediabank/Индекс потребительских цен на товары и услуги в 2020-2026 гг..xlsx
+XLSX	https://77.rosstat.gov.ru/storage/mediabank/Динамика индекса потребительских цен на товары и услуги в 2000-2026 гг..xlsx
+XLSX	https://77.rosstat.gov.ru/storage/mediabank/Средние потребительские цены на молоко в 2020-2026 гг..xlsx
+XLSX	https://77.rosstat.gov.ru/storage/mediabank/Средние потребительские цены на нефтепродукты в 2020-2026 гг..xlsx
+XLSX	https://77.rosstat.gov.ru/storage/mediabank/Индексы цен на продукцию (затраты, услуги) инвестиционного назначения в январе-декабре 2025 г.(1).xlsx
+XLSX	https://77.rosstat.gov.ru/storage/mediabank/Индексы цен на первичном рынке жилья в 2020-2025 гг.(6).xlsx
+XLSX	https://77.rosstat.gov.ru/storage/mediabank/Индексы цен на вторичном рынке жилья в 2020-2025 гг.(8).xlsx
+XLSX	https://77.rosstat.gov.ru/storage/mediabank/Индексы цен производителей за 2024-2025 гг.(9).xlsx
+XLSX	https://77.rosstat.gov.ru/storage/mediabank/Индексы цен на продукцию (затраты, услуги) инвестиционного назначения в январе-декабре 2024 г.(2).xlsx
+XLSX	https://77.rosstat.gov.ru/storage/mediabank/Средние цены и индексы цен производителей за 2023-2024 гг.(20).xlsx
+XLSX	https://77.rosstat.gov.ru/storage/mediabank/Средние цены и индексы цен производителей за 2021-2022 гг..xlsx
