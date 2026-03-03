@@ -1,9 +1,12 @@
-pandas
-requests
-openpyxl
-matplotlib
-seaborn
-sqlalchemy
-psycopg2-binary
-fastapi
-uvicorn
+requests==2.31.0
+beautifulsoup4==4.12.2
+pandas==2.0.3
+openpyxl==3.1.2  # для работы с Excel
+lxml==4.9.3      # для парсинга HTML
+python-dotenv==1.0.0
+psycopg2-binary==2.9.7
+sqlalchemy==2.0.19
+jupyter==1.0.0
+matplotlib==3.7.2
+seaborn==0.12.2
+numpy==1.24.
